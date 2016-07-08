@@ -25,7 +25,7 @@
             "names": [ "deb" ],
             "ubuntu_touch": {
                 "enabled": true,
-                "base_url": "http://system-image.tasemnice.eu"
+                "base_url": "http://neon.plasma-phone.org"
             },
             "official": true,
             "devices": [
@@ -89,7 +89,7 @@
             "names": [ "hammerhead" ],
             "ubuntu_touch": {
                 "enabled": true,
-                "base_url": "http://system-image.tasemnice.eu"
+                "base_url": "http://neon.plasma-phone.org"
             },
             "official": true,
             "devices": [
